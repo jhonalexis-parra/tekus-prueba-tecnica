@@ -2,7 +2,7 @@
 # $ conda create --name <env> --file <this file>
 # platform: win-64
 argon2-cffi == 20.1.0
-arrow=0.17.0=py38haa244fe_1
+arrow==0.17.0=py38haa244fe_1
 async_generator=1.10=py_0
 attrs=20.3.0=pyhd3deb0d_0
 backcall=0.2.0=pyh9f0ad1d_0
